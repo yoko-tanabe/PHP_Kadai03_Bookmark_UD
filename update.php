@@ -12,7 +12,7 @@ $trip_date = "20291215";
 
 
 //config.phpを呼び出す
-require_once('../../../config.php');　//さくらにあげるときはこっち
+require_once('../../config.php'); //さくらにあげるときはこっち
 // require_once('config.php');
 
 //2. DB接続します
